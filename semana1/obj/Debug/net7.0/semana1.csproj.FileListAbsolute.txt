@@ -1,0 +1,15 @@
+C:\progrmacion\semana1\bin\Debug\net7.0\semana1.exe
+C:\progrmacion\semana1\bin\Debug\net7.0\semana1.deps.json
+C:\progrmacion\semana1\bin\Debug\net7.0\semana1.runtimeconfig.json
+C:\progrmacion\semana1\bin\Debug\net7.0\semana1.dll
+C:\progrmacion\semana1\bin\Debug\net7.0\semana1.pdb
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.csproj.AssemblyReference.cache
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.AssemblyInfoInputs.cache
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.AssemblyInfo.cs
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.csproj.CoreCompileInputs.cache
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.dll
+C:\progrmacion\semana1\obj\Debug\net7.0\refint\semana1.dll
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.pdb
+C:\progrmacion\semana1\obj\Debug\net7.0\semana1.genruntimeconfig.cache
+C:\progrmacion\semana1\obj\Debug\net7.0\ref\semana1.dll
